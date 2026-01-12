@@ -1,8 +1,10 @@
-# Disclaimer!
+# Disclaimer!!
 
 This mod has some ui bugs. Please use your mouse to select the custom hitsounds in the in-game sfx dropdown, keyboard controls can't select them. This fork was created just to fix these things, as the original repository is archived now. However, I barely know any coding, so I'm hoping that this fork can get some contributions to update it.
 
 If you want to set placeholders for sounds your custom hitsounds don't support, first select one of the official hitsounds you want as your placeholder default, THEN select your custom one.
+
+I'm not sure if this mod works with 0.6.0 melonloader. If it doesn't, use the dll from the original repository!
 
 # Below is the readme included with the original repository (slightly adjusted install instruction):
 # CustomHitSound
