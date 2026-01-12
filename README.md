@@ -1,3 +1,10 @@
+# Disclaimer!
+
+This mod has some ui bugs. Please use your mouse to select the custom hitsounds in the in-game sfx dropdown, keyboard controls can't select them. This fork was created just to fix these things, as the original repository is archived now. However, I barely know any coding, so I'm hoping that this fork can get some contributions to update it.
+
+If you want to set placeholders for sounds your custom hitsounds don't support, first select one of the official hitsounds you want as your placeholder default, THEN select your custom one.
+
+# Below is the readme included with the original repository (slightly adjusted install instruction):
 # CustomHitSound
 
 Allows you to use custom hit sounds in game.
@@ -6,7 +13,7 @@ Allows you to use custom hit sounds in game.
 
 ## How to Install
 
-Install [Muse Dash Mod tools](https://github.com/MDModsDev/MuseDashModToolsUI/releases/latest), follow the instructions and install the mod.
+Install Melonloader 0.7.0, and place the dll file in `Muse Dash\Mods` of your game installation directory.
 
 Then, download BattleSfx.zip from [Releases](https://github.com/MDModsDev/CustomHitSound/releases/latest), extract it into `Muse Dash\UserData` folder.
 
